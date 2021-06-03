@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hartford-shires murder. Or, Bloody news from St. Albans Being a true relation, how two farmers living near St. Albans, and comming homeward from Hartford Fair, Octo. the 29th. were robbed by seven or eight foot-padders, of about fifteen pound; the one they barbarously murdered upon the place, the other they much bruised, and having bound him, cast him into a ditch, leaving him for dead: but he recovering some strength, got out and escaped, and raised the town, who sent out hue and cry immediately for their apprehension. Tune of, Aim not too high; or, Fortune my for, &amp;c. With allowance.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24118</idno><idno type="EEBO-CITATION">99829167</idno>
+  <idno type="VID">207101</idno>
+  <idno type="EEBO-PROQUEST">2240859326</idno>
+  
+            <idno type="STC">Wing H1602D</idno>
+            <idno type="PROQUEST">99829167</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829167e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207101)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1989:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Hartford-shires murder. Or, Bloody news from St. Albans Being a true relation, how two farmers living near St. Albans, and comming homeward from Hartford Fair, Octo. the 29th. were robbed by seven or eight foot-padders, of about fifteen pound; the one they barbarously murdered upon the place, the other they much bruised, and having bound him, cast him into a ditch, leaving him for dead: but he recovering some strength, got out and escaped, and raised the town, who sent out hue and cry immediately for their apprehension. Tune of, Aim not too high; or, Fortune my for, &amp;c. With allowance.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "All melting hearts come here and take a view,".</note>
+                  <note>Place of publication from and date estimated by Wing.</note>
+                  <note>In two parts; woodcut at head of first part.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Murder --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:207101:1"/>
+            <head>The Hartford-shires Murder. OR, Bloody News from <hi>St. Albans.</hi>
+            </head>
+            <argument>
+               <p>Being a true Relation, how two Farmers living near St. Albans, and comming homeward from Hartford Fair, Octo. the 29th. were robbed by seven or eight Foot-Padders, of about fifteen pound; the one they barbarously murdered upon the place, the other they much bruised, and having bound him, cast him into a Ditch, leaving him for dead: but he recovering some strength, got out and escaped, and raised the town, who sent out Hue and Cry immediately for their apprehension.</p>
+            </argument>
+            <opener>Tune of, Aim not too high; Or, Fortune my Foe, &amp;c.</opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>woodcut of man being robbed</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>All melting hearts come here and take a view,</l>
+               <l>And mark this story which is plain and true,</l>
+               <l>In <hi>Hartford shire</hi> a Murder late was done,</l>
+               <l>By wicked wretches who to mischief run.</l>
+            </lg>
+            <lg>
+               <l>The whole Relation I shall now impart,</l>
+               <l>Although with grief it fills my very heart,</l>
+               <l>That any Christians are so void of grace,</l>
+               <l>As willfully Gods Image to deface.</l>
+            </lg>
+            <lg>
+               <l>Two Farmers did near to St. <hi>Albans</hi> dwell,</l>
+               <l>Who went to <hi>Hartford</hi> Fair, to buy and sell,</l>
+               <l>Both honest men, and well belov'd they were,</l>
+               <l>And had good credit all the country near.</l>
+            </lg>
+            <lg>
+               <l>Some cattel there they did intend to buy,</l>
+               <l>But finding that the prizes were too high,</l>
+               <l>They did resolve to bring their money home,</l>
+               <l>Vntil a better Market day should come.</l>
+            </lg>
+            <lg>
+               <l>But as they were returning home at night,</l>
+               <l>Some wicked Villains who did owe them spite,</l>
+               <l>And knew they money had, in ambush laid,</l>
+               <l>So on a suddain they were both betraid.</l>
+            </lg>
+            <lg>
+               <l>Out of the Ditches, or behind a bush,</l>
+               <l>In hast upon these harmless men they rush,</l>
+               <l>Who were almost got home, and thought no ill,</l>
+               <l>Much less to lose their coyn, or their bloods spill,</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:207101:1"/>
+               <head>The Second Part, to the same tune.</head>
+               <lg>
+                  <l>With cluks they knockt them down immediate<g ref="char:EOLhyphen"/>ly,</l>
+                  <l>And then to rifle them they streight did hye,</l>
+                  <l>With cruelty, no pitty there was shown,</l>
+                  <l>But what they found they quickly made their own.</l>
+               </lg>
+               <lg>
+                  <l>But that which most doth grieve me for to tell,</l>
+                  <l>What at that time so dismally befell,</l>
+                  <l>That unto Theft they needs would murder add,</l>
+                  <l>As if that one alone were not too bad.</l>
+               </lg>
+               <lg>
+                  <l>One of these Farmers seeing their intent,</l>
+                  <l>And that with bloody minds they all were bent,</l>
+                  <l>For the Lords sake, my money take, quoth he,</l>
+                  <l>But spare my life, I beg it on my knee.</l>
+               </lg>
+               <lg>
+                  <l>But they were deaf to all that e're he spoke,</l>
+                  <l>&amp; with their clubs, his skull they pierst &amp; broke:</l>
+                  <l>Their bloody minds, though he for life did plead,</l>
+                  <l>They would not leave him till that he was dead.</l>
+               </lg>
+               <lg>
+                  <l>The other they his hands behind him bound,</l>
+                  <l>And bruis'd him sore, &amp; trod him on the ground;</l>
+                  <l>Then threw him in a Ditch, as one quite dead,</l>
+                  <l>And then with all the speed they could, they fled.</l>
+               </lg>
+               <lg>
+                  <l>VVhen they were gone, his sences to him came,</l>
+                  <l>And he reviv'd, although they thought him slain;</l>
+                  <l>VVith much ado out of the Ditch he got,</l>
+                  <l>And hasted to the Town in pain God wot.</l>
+               </lg>
+               <lg>
+                  <l>The Town he rais'd, who all with one consent,</l>
+                  <l>To apprehend these Murderers were bent,</l>
+                  <l>A Hue and Cry they presently did send,</l>
+                  <l>But darkness of the night did them befriend.</l>
+               </lg>
+               <lg>
+                  <l>'Tis thought for <hi>London</hi> they did take their way,</l>
+                  <l>And got into the Town by break of day;</l>
+                  <l>But for the present, though they do escape,</l>
+                  <l>No doubt but Iustice will them overtake.</l>
+               </lg>
+               <lg>
+                  <l>The murthered corps was fetcht into the town,</l>
+                  <l>Whom all his Neighbours sorely did bemoan;</l>
+                  <l>And for his children they did grieve the more,</l>
+                  <l>Because their Mother she was dead before.</l>
+               </lg>
+               <lg>
+                  <l>then for the Crowner they did straightway send,</l>
+                  <l>To view this man brought to untimely end;</l>
+                  <l>Where by the Iury it was soon agreed,</l>
+                  <l>His death from wilful murder did proceed.</l>
+               </lg>
+               <lg>
+                  <l>And sure it was a black and horrid crime,</l>
+                  <l>As e're hath been committed of late time;</l>
+                  <l>They could not with his money be content,</l>
+                  <l>But took his life they were so bloody bent.</l>
+               </lg>
+               <lg>
+                  <l>The other he hath cause to praise the Lord,</l>
+                  <l>That so great mercy did to him afford,</l>
+                  <l>That with his life he did escape away,</l>
+                  <l>When as his friend was made to death a prey.</l>
+               </lg>
+               <lg>
+                  <l>Those wicked Villains who hath done this deed,</l>
+                  <l>Enough to make a stony heart to bleed,</l>
+                  <l>I hope e're long will to the Bar be brought,</l>
+                  <l>to answer for the crime which they have wrought.</l>
+               </lg>
+               <lg>
+                  <l>For why the Lord who sits above on high,</l>
+                  <l>Will find them out, with his All-seeing eye,</l>
+                  <l>They cannot scape who Murder do commit,</l>
+                  <l>For blood requires blood, as 'tis most sit.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
